@@ -7,3 +7,4 @@ const sayfa_murat = () => {
 }
 
 export default sayfa_murat
+//murat yazdi
