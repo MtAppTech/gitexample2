@@ -8,3 +8,4 @@ const sayfa_murat = () => {
 
 export default sayfa_murat
 //main yazdi
+//murat yazdi
